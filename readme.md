@@ -13,9 +13,10 @@
 1. 해당 프로젝트를 clone 합니다.
 
 2. 필요한 라이브러리를 설치합니다.
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
-3. `calculator_example.py` 파일을 실행합니다.
+3. 파일을 실행합니다.
+`calculator_example.py` 
 
 4. 자동으로 실행되는 계산기 어플리케이션을 확인합니다.
 
